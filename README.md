@@ -1,6 +1,6 @@
 # Ticket Bot
 
-A simple Discord ticket bot designed as a task requested by Rollerite.  
+A simple Discord ticket bot designed as a task
 This is **not a production-ready project**, but rather a simple and easy-to-use bot.
 
 ---
